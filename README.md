@@ -5,7 +5,6 @@
 ## 📌 Goals of the First Version
 
 - Study and document how broadcasters like **SBS**, **JTBC**, **tvN**, and **MBC** structure or expose data
-- Create standardized Postman collections or markdown documentation per broadcaster
 - No actual data aggregation yet — only documentation and understanding
 
 ## ✅ Status
