@@ -10,8 +10,8 @@
 
 ## ✅ Status
 
-| Broadcaster | Documented | Postman Collection |
+| Broadcaster | Documented | Docs |
 |-------------|------------|--------------------|
-| SBS         | ✅ On going          | [`SBS.postman_collection.json`](docs/sbs/SBS.postman_collection.json) |
+| SBS         | ✅ On going          | [`docs/sbs`](docs/sbs/) |
 | tvN         | ❌ Planned  | - |
 | JTBC        | ❌ Planned | - |
